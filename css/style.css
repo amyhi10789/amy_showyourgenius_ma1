@@ -52,6 +52,9 @@
 }
 
 body {
+  font-family: "barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
   margin: 0;
   padding: 0;
   max-width: 100%
@@ -114,5 +117,7 @@ body {
 
 p {
   margin: 20px;
-  font-family: "Optima";
+  font-family: "barlow", sans-serif;
+  font-weight: 300;
+  font-style: normal;
 }
